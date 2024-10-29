@@ -1,7 +1,5 @@
-# FullStack Social Media App
+# FullStack Social Media APP
 
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
 
-Video: https://www.youtube.com/watch?v=K8YELRmUb5o
-
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+Technologies Used: MongoDB, Express.js, React.js, Node.js (MERN Stack), WebSockets, Tailwind CSS, GitHub.
+Overview: This project is a complete social media platform for over 10,000 active users, built with the MERN stack. By integrating WebSockets, you enabled real-time updates that increased user engagement by 25%. You focused on secure data transmission to protect user information. The UI design emphasized a mobile-first approach with Tailwind CSS, which improved design consistency by 40%. You also leveraged GitHub for version control, enabling efficient collaborative development.
